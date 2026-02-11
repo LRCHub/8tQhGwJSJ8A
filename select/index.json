@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "BEYOND THE TIME (メビウスの宇宙を越えて)（feat. SennaRin）",
+  "base_artist": "澤野　弘之",
+  "createdAt": "2026-02-11T10:50:10.122957Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BEYOND THE TIME (メビウスの宇宙を越えて)",
+      "artist": "澤野弘之 feat. SennaRin",
+      "has_synced": false,
+      "path": "select/pl_01_BEYOND_THE_TIME_(メビウスの宇宙を越えて)_澤野弘之_feat._SennaRin.txt"
+    }
+  ]
+}
